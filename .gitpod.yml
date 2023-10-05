@@ -1,4 +1,4 @@
-image: zhopen/eosio-web-ide:v0.1.0
+image: silverblue/proton-web-ide:latest
 
 ports:
 - port: 3000
